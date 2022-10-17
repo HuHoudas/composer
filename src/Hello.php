@@ -3,7 +3,7 @@
 
 class Hello 
 {
-    public function talk():string  
+    public static function talk():string  
     {
         return ("Hello Wolrd !");
     }

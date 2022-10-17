@@ -4,4 +4,4 @@ require './vendor/autoload.php';
 
 $hello = new App\Hello();
 
-echo $hello;
+echo $hello->talk();
